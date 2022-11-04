@@ -1,2 +1,2 @@
 # Calendar
-## This program is basic calendar where user can add event and display it.
+## In this program we can add an event to the calendar and display it.
